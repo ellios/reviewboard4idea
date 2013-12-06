@@ -1,16 +1,14 @@
 <idea-plugin version="2">
     <id>reviewboard4idea</id>
-    <name>Reviewboard for Idea</name>
+    <name>reviewboard4idea</name>
     <version>1.0</version>
-    <vendor>YourCompany</vendor>
-    <description><![CDATA[
-      Diff based Reviewboard plugin.
-      ]]>
+    <vendor>iqiyi</vendor>
+    <description>
+        Reviewboard plugin for idea. Diff based https://code.google.com/p/reviewboard-plugin-for-idea/ plugin because it not work.
     </description>
 
-    <change-notes><![CDATA[
+    <change-notes>
       Finally it works.
-      ]]>
     </change-notes>
 
     <!-- please see http://confluence.jetbrains.net/display/IDEADEV/Build+Number+Ranges for description -->
